@@ -18,7 +18,7 @@
 - 集中在视角正中心(大部分数据来自摄像头记录，有操作手情况下，敌人大多位于正中心)
 - 近处识别不出，近处数据集过少
 - 使用python似乎效率不高
-![labels.jpg](labels.jpg)
+<img src="labels.jpg" height="520" width="520"></img>
 ## Package
 - Python==3.10(版本高了报一堆错0.0)
 - pythorch==2.0.0  
