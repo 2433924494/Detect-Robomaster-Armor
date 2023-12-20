@@ -20,6 +20,7 @@
 - 使用python似乎效率不高
 
 <img src="labels.jpg" height="400" width="400"></img>
+<img src="Label_Name.png" height="400" width="600"></img>
 ## Package
 - Python==3.10(版本高了报一堆错0.0)
 - torch==2.0.0+cu117
@@ -36,6 +37,7 @@
 - Yolo粗浅使用  
 - Opencv图像处理(尝试过传统算法)
 - ~~熟练掌握各种包的安装与卸载~~
+
 ## Info
 **HITSZ**-2023  
 `2023311C08`
