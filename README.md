@@ -22,6 +22,8 @@
 ## Package
 - pythorch==2.0.0  
 - Yolov5
+## Problems
+- 颜色识别好像B和R搞反了，是BGR格式的原因？
 ## Time Spent
 2023.12.18--2023.12.21
 ## Learned
