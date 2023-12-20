@@ -20,8 +20,10 @@
 - 使用python似乎效率不高
 ![labels.jpg](labels.jpg)
 ## Package
+- Python==3.10(版本高了报一堆错0.0)
 - pythorch==2.0.0  
 - Yolov5
+
 ## Problems
 - 颜色识别好像B和R搞反了(于是我手动把B和R对应标签改了一下)，大概是BGR格式的原因
 ## Time Spent
@@ -29,6 +31,7 @@
 ## Learned
 - Yolo粗浅使用  
 - Opencv图像处理
+- --熟练掌握各种包的安装与卸载--
 ## Info
 **HITSZ**-2023  
 `2023311C08`
