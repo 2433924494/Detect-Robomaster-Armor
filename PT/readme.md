@@ -7,7 +7,8 @@ Epoch=153
 DataSet：5497
 ### V3.0
 Epoch=30  
-DataSet：6804
+DataSet：6804  
+Time spent:1.244 hours
 ### V4.0
 Epoch=500  
 DataSet:6804
