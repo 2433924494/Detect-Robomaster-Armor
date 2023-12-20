@@ -19,7 +19,7 @@
 - 近处识别不出，近处数据集过少
 - 使用python似乎效率不高
 
-<img src="labels.jpg" height="800" width="800"></img>
+<img src="labels.jpg" height="400" width="400"></img>
 ## Package
 - Python==3.10(版本高了报一堆错0.0)
 - pythorch==2.0.0  
