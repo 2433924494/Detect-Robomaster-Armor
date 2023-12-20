@@ -17,7 +17,10 @@
 - 集中在视角正中心
 - 近处识别不出，近处数据集过少
 - 使用python似乎效率不高
-![labels.jpg](labels.jpg)    
+![labels.jpg](labels.jpg)
+## Package
+- pythorch==2.0.0  
+- Yolov5
 ## Time Spent
 2023.12.18--2023.12.21
 ## Learned
