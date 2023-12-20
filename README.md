@@ -22,7 +22,10 @@
 <img src="labels.jpg" height="400" width="400"></img>
 ## Package
 - Python==3.10(版本高了报一堆错0.0)
-- pythorch==2.0.0  
+- torch==2.0.0+cu117
+- torchaudio==2.0.1+cu117
+- torchvision==0.15.1+cu117
+- CUDA==12.1
 - Yolov5
 
 ## Problems
