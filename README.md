@@ -29,6 +29,8 @@
 部分遮挡可识别  
 <img src="4296.jpg" height="400" width="400"></img>
 
+熄灭可识别  
+<img src="5943.jpg" height="350" width="680"></img>
 ## Package
 - Python==3.10(版本高了报一堆错0.0)
 - torch==2.0.0+cu117
