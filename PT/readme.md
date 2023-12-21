@@ -6,9 +6,8 @@ DataSet：5497
 Epoch=153  
 DataSet：5497
 ### V3.0
-Epoch=30  
-DataSet：6804  
-Time spent:1.244 hours
+Epoch=500  
+DataSet：5497
 ### V4.0
 Epoch=500  
 DataSet:6804

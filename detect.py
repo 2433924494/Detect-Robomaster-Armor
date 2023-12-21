@@ -268,9 +268,9 @@ if __name__ == '__main__':
     #熄灭数据量太少，易识别为Blue
     #小物体数据太多，大物体识别准确率低
 
-    #path='./testimg/10005.jpg'
+    #path='./testimg/1606.jpg'
     path=input('Input path:')
-    weights='PT/V3.0.pt'
+    weights='PT/V4.0.pt'
     #source=input('Input path:')
     source=path
     img_size=int(640)
