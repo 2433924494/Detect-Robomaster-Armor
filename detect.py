@@ -93,8 +93,6 @@ def scale_coords_landmarks(img1_shape, coords, img0_shape, ratio_pad=None):
     coords[:, 5].clamp_(0, img0_shape[0])  # y3
     coords[:, 6].clamp_(0, img0_shape[1])  # x4
     coords[:, 7].clamp_(0, img0_shape[0])  # y4
-    #coords[:, 8].clamp_(0, img0_shape[1])  # x5
-    #coords[:, 9].clamp_(0, img0_shape[0])  # y5
     return coords
 
 def show_results(img, xyxy, conf, landmarks, class_num):
