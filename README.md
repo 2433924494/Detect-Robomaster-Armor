@@ -12,6 +12,17 @@
 - 图片已经给出，曝光度不好调整
 - 尝试后效果不好，我太菜了。。
 - 观察出所给附件似乎是部分数据集
+
+## Results
+正常可识别  
+<img src="detect/opt41/138.jpg" height="350" width="640"></img>
+
+部分遮挡可识别  
+<img src="4296.jpg" height="400" width="400"></img>
+
+熄灭可识别(识别率低)
+<img src="5943.jpg" height="350" width="640"></img>
+
 ## 不足
 - 数据集过少(标数据集太耗时间了0.0)
 - 可能需要删除一些无目标的数据
@@ -25,9 +36,6 @@
 <img src="labels.jpg" height="400" width="400"></img>
 <img src="Label_Name.png" height="400" width="600"></img>
 
-## Results
-部分遮挡可识别  
-<img src="4296.jpg" height="400" width="400"></img>
 
 ## Package
 - Python==3.10(版本高了报一堆错0.0)
