@@ -20,7 +20,7 @@
 部分遮挡可识别  
 <img src="4296.jpg" height="400" width="400"></img>
 
-熄灭可识别(识别率低)
+熄灭可识别(识别率低)  
 <img src="5943.jpg" height="350" width="640"></img>
 
 ## 不足
