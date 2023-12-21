@@ -10,5 +10,5 @@ Epoch=500
 DataSet：5497
 ### V4.0
 Epoch=500  
-DataSet:6804
+DataSet:6804      
 Time spent:9.24 hours

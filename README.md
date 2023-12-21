@@ -1,7 +1,8 @@
 # RoboMaster装甲板识别
 ## 使用Yolov5-face
 参考网上资源，训练模型，检测四个关键点    
-训练500次![training.png](training.png)
+训练500次(算力云上租的3080Ti)
+![training.png](training.png)
 
 <img src="results.png" height="400" width="800"></img>
 ## 使用
@@ -33,7 +34,7 @@
 
 ## Problems
 - 颜色识别好像B和R搞反了(于是我手动把B和R对应标签改了一下)，大概是BGR格式的原因
-- 有些熄灭的可以用V4.0识别出来，而V3.0对未熄灭的识别率更高些，有时会将熄灭的认成Blue
+- 有个别V3.0可以识别，而V4.0识别不出,但识别率V4.0高于V3.0
 ## Time Spent
 2023.12.18--2023.12.21
 ## Learned
