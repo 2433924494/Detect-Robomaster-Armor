@@ -18,7 +18,7 @@
 <img src="detect/opt41/138.jpg" height="350" width="640"></img>
 
 网上找的  
-<img src="detect/opt106/R-C (4).jpg" height="400" width="540"></img>
+<img src="detect/opt106/R-C (4).jpg" height="300" width="540"></img>
 
 部分遮挡可识别  
 <img src="4296.jpg" height="400" width="400"></img>
