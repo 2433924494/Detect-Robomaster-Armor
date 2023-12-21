@@ -1,7 +1,8 @@
 # RoboMaster装甲板识别
 ## 使用Yolov5-face
 参考网上资源，训练模型，检测四个关键点    
-训练500次![training.png](training.png)
+训练500次(算力云上租的3080Ti)
+![training.png](training.png)
 
 <img src="results.png" height="400" width="800"></img>
 ## 使用
