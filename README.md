@@ -24,6 +24,11 @@
 
 <img src="labels.jpg" height="400" width="400"></img>
 <img src="Label_Name.png" height="400" width="600"></img>
+
+## Results
+部分遮挡可识别  
+<img src="4296.jpg" height="400" width="400"></img>
+
 ## Package
 - Python==3.10(版本高了报一堆错0.0)
 - torch==2.0.0+cu117
