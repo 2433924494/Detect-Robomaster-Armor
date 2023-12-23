@@ -39,6 +39,11 @@
 <img src="labels.jpg" height="400" width="400"></img>
 <img src="Label_Name.png" height="400" width="600"></img>
 
+## How to use
+`conda create -n <name> python=3.10`name是虚拟环境的名字，你自己定<br>
+`conda activate <name>`<br>
+`pip install -r requirments.txt`<br>
+
 
 ## Package
 - Python==3.10(版本高了报一堆错0.0)
