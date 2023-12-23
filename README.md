@@ -43,7 +43,7 @@
 `conda create -n <name> python=3.10`name是虚拟环境的名字，你自己定<br>
 `conda activate <name>`<br>
 `pip install -r requirements.txt`<br>
-
+`conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=11.7 -c pytorch -c nvidia`<br>
 
 ## Package
 - Python==3.10(版本高了报一堆错0.0)
