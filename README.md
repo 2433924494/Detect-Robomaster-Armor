@@ -42,7 +42,7 @@
 ## How to use
 `conda create -n <name> python=3.10`name是虚拟环境的名字，你自己定<br>
 `conda activate <name>`<br>
-`pip install -r requirments.txt`<br>
+`pip install -r requirements.txt`<br>
 
 
 ## Package
